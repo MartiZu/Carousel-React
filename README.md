@@ -1,4 +1,7 @@
 # React Image Carousel Project
+[![Watch the video](https://img.youtube.com/vi/unKf_4Xp9E8/sddefault.jpg)](https://youtu.be/unKf_4Xp9E8)
+
+
 
 ## Objectives
 
