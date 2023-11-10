@@ -1,22 +1,34 @@
 {
-  "data": [
+  "slides": [
     {
       "id": 1,
-      "src": "img-carousel-/src/Data/Avatar/Marika.png",
-      "alt": "Marika",
-      "description": "dfd"
+      "src": "https://picsum.photos/id/234/800/400",
+      "alt": "Picture of the Tour Eifel",
+      "description": "The Eiffel Tower was originally built as a temporary structure for the 1889 Exposition Universelle (World's Fair) and faced criticism from some notable artists of the time."
     },
     {
       "id": 2,
-      "src": "img-carousel-/src/Data/Avatar/Maria.png",
-      "alt": "Maria",
-      "description": "Hi! I'm Maria. I'm based in Somerset. My background is in social pedagogy, mediation, and childcare. I started coding as a hobby, and nowadays, I am turning it into my career. 😊"
+      "src": "https://picsum.photos/id/95/800/400",
+      "alt": "A park on a foggy morning",
+      "description": "Running in the morning fog not only provides a mystical atmosphere but also offers cooler temperatures, which can enhance a runner's performance and enjoyment."
     },
     {
       "id": 3,
-      "src": "img-carousel-/src/Data/Avatar/Martina.png",
-      "alt": "Martina",
-      "description": "Hello everyone. My name is Martina, I live in London, I am a former nurse and psychotherapist who discovered a passion for coding and decided to translate her problem-solving skills into tech as a developer."
+      "src": "https://picsum.photos/id/122/800/400",
+      "alt": "St Paul's cathedral from the millenium bridge",
+      "description": "St. Paul's Cathedral is home to a famous whispering gallery where a whisper against the walls can be heard on the opposite side, about 100 feet away."
+    },
+    {
+      "id": 4,
+      "src": "https://picsum.photos/id/225/800/400",
+      "alt": "A tea pot with a cup",
+      "description": "The tradition of afternoon tea is said to have originated in the 1840s when Anna, the Duchess of Bedford, requested a light refreshment to stave off hunger between lunch and dinner."
+    },
+    {
+      "id": 5,
+      "src": "https://picsum.photos/id/238/800/400",
+      "alt": "Skyline of New York",
+      "description": "The Empire State Building, one of the prominent features in the New York City skyline, has its own zip code: 10118."
     }
   ]
 }
