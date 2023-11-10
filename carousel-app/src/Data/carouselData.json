@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "src": "img-carousel-/src/Data/Avatar/Marika.png",
+      "alt": "Marika",
+      "description": "dfd"
+    },
+    {
+      "id": 2,
+      "src": "img-carousel-/src/Data/Avatar/Maria.png",
+      "alt": "Maria",
+      "description": "Hi! I'm Maria. I'm based in Somerset. My background is in social pedagogy, mediation, and childcare. I started coding as a hobby, and nowadays, I am turning it into my career. 😊"
+    },
+    {
+      "id": 3,
+      "src": "img-carousel-/src/Data/Avatar/Martina.png",
+      "alt": "Martina",
+      "description": "Hello everyone. My name is Martina, I live in London, I am a former nurse and psychotherapist who discovered a passion for coding and decided to translate her problem-solving skills into tech as a developer."
+    }
+  ]
+}
