@@ -1,18 +1,18 @@
 # React Image Carousel Project
+[![Watch the video](https://img.youtube.com/vi/unKf_4Xp9E8/sddefault.jpg)](https://youtu.be/unKf_4Xp9E8)
+
+
 
 ## Objectives
 
 - **Develop a React SPA with a Clear Component Structure:** Organize your project with a well-defined component structure to enhance maintainability.
 - **Demonstrate Effective Planning of State and Props Across Components:** Plan and manage the state and props for each component by thoroughly outlining your component tree before coding.
 - **Implement a Component-by-Component Development Approach:** Develop each component incrementally, focusing on its props, state, and JSX, ensuring a systematic and organized development process.
-- **Deliver a Functional MVP Within a Tight Timeframe:** Work collaboratively in pairs or threes using the Driver-Navigator approach for coding. Make frequent, small commits, and prioritize efficient planning to meet tight deadlines.
 
 ## Development Rules
 
 - **Planning Before Coding:** Outline your component tree, specifying the state and props for each component. Think through the logic for each function, considering inputs, outputs, and overall logic.
 - **Problem Solving Before Coding:** The goal is to solve problems before coding in JavaScript/React/JSX. Approach coding as the translation of a well-thought-out plan into syntax the computer understands.
-- **Collaborative Coding:** Work in pairs or threes, adopting the Driver-Navigator approach for coding. Regularly switch roles to ensure collective understanding and contribution.
-- **Frequent, Small Commits:** Make frequent, small commits to track and manage changes effectively. This promotes a more organized version control history.
 
 ## Technical Requirements
 
@@ -36,17 +36,18 @@
    - Address additional features and refine the application.
    - Test and debug for a robust application.
 
-   ## Hackathon Project: Image Carousel
 
-### How You Will Build It
 
-The image carousel allows the user to navigate through images using backward or forward buttons.
+### The Project
+
+The image carousel allows the user to navigate through images using backward or forward buttons. It also allows the user to selecr an image clicking the indicator. When an image is clicked, this displayed an interesting fact about the image.
 
 - **Implementation Steps:**
   - Use the `useState` hook to store and update the current image state.
   - Allow the user to navigate to the previous or next image using buttons.
   - Implement logic to cycle through images when the user reaches the end of the array.
-  - Consider adding a fun transition using CSS to animate the image changes.
+  - Add transition using CSS to animate the image changes.
+    Use the `userEffect` hook to enable effects on the components.
 
 - **Components**
 
@@ -54,14 +55,12 @@ App
 
 ├── Header
 
-├── DisplayArea
+├── Carousel
 
-│   └── Image (with a brief description/figcaption)
+│   └── to be implemented
 
-└── Footer
+└── to be implemented
 
 - App component = Just target the other components to reflect them on the UI
 - Header = Title
-- DisplayArea = Array of images + Function that makes the button work --> Image carousel
-- Image = Receives the props from DisplayArea
-- Footer = Copyright
+- Carousel = Array of images + Functions that makes the buttons work --> Image carousel
